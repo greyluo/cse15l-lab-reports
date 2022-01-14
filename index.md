@@ -25,6 +25,8 @@ Before doing this,I first changed my password through [Account Lookup](https://s
     Then I was able to enter the password and successfuly connect to the server.
 * **Step 3**\
 Runing Commands
+
+
      ![Image](Images\c2.png)
      >ls
 
@@ -36,13 +38,17 @@ Runing Commands
 
 * **Step 4**\
 Moving Files with scp
+
+
     ![Image](Images\copy.png)
     >scp path account\
     (I already set up SSH key, so here I don't need to type in the password.)
 
 * **Step 5**\
 Settting an SSH Key
- ![Image](Images\key.png)
+
+
+    ![Image](Images\key.png)
     > First, generate the key here
 
     (Then we need to enter mkdir .ssh in the server)
@@ -50,6 +56,8 @@ Settting an SSH Key
     > Add pub key to the server
 * **Step 6**\
 Optimizing Remote Running
+
+
    ![Image](Images\o1.png)
    >Use "" to directly run the command 
 
