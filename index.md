@@ -3,6 +3,7 @@
     This post is about how I set up ieng6 account. 
 
     Author:Guidong Luo
+
 ---
 * **Step 1**\
 Install VS Code(or other code editors)
@@ -31,6 +32,7 @@ Run Commands
     This  command allows us to see all the files and folders in the server.
 
 * **Step 4**\
+
 * **Step 5**\
 * **Step 6**\
 
