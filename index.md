@@ -57,12 +57,31 @@ Settting an SSH Key
 * **Step 6**\
 Optimizing Remote Running
 
+    1\.
 
    ![Image](Images\o1.png)
    >Use "" to directly run the command 
 
+   It only take us 1 keystroke to show all the files in the server. For comparison, we can see that we need to take 2 keystrokes before. This saves us 1 keystroke.
+
+    ![Image](Images\com1.png)
+
+    2\.
+
    ![Image](Images\o2.png)
    > Use semicolons to run multiple commands at the same time
+
+
+   Combining these two strategies, we can remotely run a program using 1 keystroke
+   ![Image](Images\com2.png)
+
+   While the traditional way needs 3 keystrokes
+   ![Image](Images\com3.png)
+
+
+
+
+
 
    
 
