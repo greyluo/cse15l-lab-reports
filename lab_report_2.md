@@ -1,6 +1,7 @@
 # Week 4 Lab Report 
     This is a post about how I debugged MarkdownParse java file
     Author: Guidong Luo
+    
 ## Change 1
 1. The screenshot
 
