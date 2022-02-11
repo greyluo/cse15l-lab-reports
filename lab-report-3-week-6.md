@@ -4,7 +4,8 @@
 
 ## **Introduction**
 
-    Setting up ssh configuration on Windows is quite different from Linux. I will show you step by step how I settled it.
+    Setting up ssh configuration on Windows is quite different from Linux.
+    I will show you step by step how I settled it.
     
 
 ## **Step 1** Find the .ssh folder
