@@ -34,6 +34,5 @@ Open it using noteboook (so lame) and then copy&paste the commands from the lab 
 
 ![Image](Images\lab3\result.png)
 
-and now we can use scp to transmit the file to the server easily \
+And now I can use scp to transmit the file to the server easily \
 ![Image](Images\lab3\scp.png)
-(Notes: here I have changed the account alias to "cse15l," so it is different from commands above)
