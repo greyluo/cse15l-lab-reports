@@ -12,6 +12,7 @@ img{
     width:200px;
     margin-top: 5%;
     margin-left:10%;
+    margin-right:5%;
     border-style: solid;
     border-width: 1px;
     border-color: #cbcbcb;
@@ -23,13 +24,14 @@ img{
     
 }
 .content{
-    margin-left:120px;
+    margin-left:140px;
     margin-right:60px;
     position: absolute;
     padding-left: .9375rem;
     padding-right: .9375rem;
     size:66.7%;
     left: 20%;
+    right:10%;
     
     
 }
@@ -37,7 +39,7 @@ img{
 
 .fixed-toc {
 
-    height: 200px;
+    height: 300px;
     width:auto;
 
 }
